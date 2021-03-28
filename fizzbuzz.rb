@@ -5,12 +5,12 @@ def fizzbuzz(int)
     "Fizz"
   elsif int % 5 == 0
     "Buzz"
-  else
+  else int
     "Fizzbuzz"
   end
 end
 
 fizzbuzz(3)
 fizzbuzz(5)
-fizzbuzz(15)
+fizzbuzz(45)
 fizzbuzz(4)
