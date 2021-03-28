@@ -8,4 +8,4 @@ end
 
 fizzbuzz(3)
 fizzbuzz(5)
-fizzbuzz()
+fizzbuzz(7)
